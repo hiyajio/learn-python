@@ -1,0 +1,1 @@
+answer = [[var for var in range(0,3)] for char in range(1,4)]
