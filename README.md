@@ -1,3 +1,3 @@
 # Learn Python
 
-Documentation of progress learning the programming language: Go/Golang.
+Documentation of progress learning the programming language: Python.
